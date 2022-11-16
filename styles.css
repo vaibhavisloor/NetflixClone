@@ -1,0 +1,154 @@
+body
+{
+  background: url(FrontPic8.png) no-repeat;
+  background-color: black;
+}
+.pic1
+{
+  width: 100px
+
+}
+
+.upper
+{
+  padding-left: 2%
+}
+
+.UserPic
+{
+  border-radius: 5px;
+  width: 30px;
+}
+
+.downarrow:hover
+{
+  transform: rotate(180);
+}
+
+.MainPic
+{
+  /* position: absolute; */
+  z-index: -1;
+  width: 1850px;
+}
+
+.MovieName
+{
+  width: 600px;
+  position: absolute;
+  top:180px;
+  left:50px;
+}
+
+.buttn1
+{
+  position: absolute;
+  top: 420px;
+  left: 220px;
+}
+
+.buttn2
+{
+  position: absolute;
+  top: 420px;
+  left: 330px;
+}
+
+.row1
+{
+  position: absolute;
+  top: 550px;
+text-align: center;
+font-size: 7rem;
+}
+
+.zoom
+{
+  transition: transform .4s ease; /* Animation */
+}
+
+.zoom:hover
+{
+border-radius: 10px;
+transform: scale(1.1);
+}
+
+.item
+{
+  border-radius: 10px;
+}
+
+.r-text
+{
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight:bold;
+  position: absolute;
+  left: 60px;
+}
+
+.fir
+{
+  top: 570px;
+}
+
+.sec
+{
+  top: 860px;
+}
+
+.thi
+{
+  top: 1150px;
+}
+
+.row2
+{
+position: absolute;
+top: 640px;
+text-align: center;
+font-size: 7rem;
+}
+
+.row3
+{
+  position: absolute;
+  top: 730px;
+  text-align: center;
+  font-size: 7rem;
+}
+
+.row4
+{
+  position: absolute;
+  top: 820px;
+  text-align: center;
+  font-size: 7rem;
+}
+
+.fou
+{
+  top: 1440px;
+}
+
+.row5
+{
+  position: absolute;
+  top: 910px;
+  text-align: center;
+  font-size: 7rem;
+}
+
+.fif
+{
+  top: 1730px;
+}
+
+#footer
+{
+  text-align: center;
+  font-size: 1rem;
+  padding:3%;
+  margin-top: 1000px;
+}
