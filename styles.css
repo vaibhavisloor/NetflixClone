@@ -1,7 +1,9 @@
 body
 {
-  background: url(FrontPic8.png) no-repeat;
+  background: url(FrontPic8.png) no-repeat center ;
   background-color: black;
+  background-size: auto;
+  background-position-y: 0;
 }
 .pic1
 {
@@ -59,7 +61,6 @@ body
   position: absolute;
   top: 550px;
 text-align: center;
-font-size: 5rem;
 }
 
 .zoom
@@ -95,12 +96,12 @@ transform: scale(1.1);
 
 .sec
 {
-  top: 860px;
+  top: 852px;
 }
 
 .thi
 {
-  top: 1150px;
+  top: 1134px;
 }
 
 .row2
@@ -108,7 +109,7 @@ transform: scale(1.1);
 position: absolute;
 top: 640px;
 text-align: center;
-font-size: 5rem;
+
 }
 
 .row3
@@ -116,7 +117,6 @@ font-size: 5rem;
   position: absolute;
   top: 730px;
   text-align: center;
-  font-size: 5rem;
 }
 
 .row4
@@ -124,12 +124,11 @@ font-size: 5rem;
   position: absolute;
   top: 820px;
   text-align: center;
-  font-size: 5rem;
 }
 
 .fou
 {
-  top: 1440px;
+  top: 1416px;
 }
 
 .row5
@@ -137,12 +136,11 @@ font-size: 5rem;
   position: absolute;
   top: 910px;
   text-align: center;
-  font-size: 5rem;
 }
 
 .fif
 {
-  top: 1730px;
+  top: 1698px;
 }
 
 #footer
@@ -152,3 +150,6 @@ font-size: 5rem;
   padding:3%;
   margin-top: 1000px;
 }
+
+
+
