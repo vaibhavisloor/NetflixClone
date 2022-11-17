@@ -59,7 +59,7 @@ body
   position: absolute;
   top: 550px;
 text-align: center;
-font-size: 7rem;
+font-size: 5rem;
 }
 
 .zoom
@@ -108,7 +108,7 @@ transform: scale(1.1);
 position: absolute;
 top: 640px;
 text-align: center;
-font-size: 7rem;
+font-size: 5rem;
 }
 
 .row3
@@ -116,7 +116,7 @@ font-size: 7rem;
   position: absolute;
   top: 730px;
   text-align: center;
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .row4
@@ -124,7 +124,7 @@ font-size: 7rem;
   position: absolute;
   top: 820px;
   text-align: center;
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .fou
@@ -137,7 +137,7 @@ font-size: 7rem;
   position: absolute;
   top: 910px;
   text-align: center;
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .fif
