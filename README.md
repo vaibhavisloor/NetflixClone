@@ -29,7 +29,7 @@ Please note that the site might take some time to load, as it is hosted on a fre
 2. Navigate to the project directory:
 
    ```bash
-   cd netflix-clone
+   cd NetflixClone
    ```
 
 3. Open `index.html` in your preferred web browser.
@@ -63,7 +63,7 @@ Search Feature: Addition of a search functionality to browse movies by genre, ac
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT LICENSE
 
 ## Acknowledgments
 
