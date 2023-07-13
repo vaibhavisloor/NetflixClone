@@ -12,6 +12,7 @@ Please note that the site might take some time to load, as it is hosted on a fre
 
 - Displays movie thumbnails in a grid layout similar to Netflix.
 - Slide through movie options.
+- Trailer display of that particular movieon clicking it
 
 ## Screenshots
 
