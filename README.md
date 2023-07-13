@@ -59,7 +59,7 @@ To customize the content of the Netflix clone, follow these steps:
 ## Future Updates
 This project is actively maintained, and changes and improvements will be made soon. Stay tuned for the following updates:
 
-Movie Trailer Display: On clicking a movie, the trailer of the movie will be displayed.
+User Authentication : Users can login using email/mobile number and password.
 Search Feature: Addition of a search functionality to browse movies by genre, actor, or title.
 
 ## License
